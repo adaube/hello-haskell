@@ -61,3 +61,6 @@ main = do
 -- $ stack ghc -- hello-haskell.hs -o hello_cli
 -- Experiment!
 -- $ ./hello_cli Lauren
+
+-- Change index value, compile, pass multiple args, and predict your stdout.
+-- You just wrote and built a Haskell program!
